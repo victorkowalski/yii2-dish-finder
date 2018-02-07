@@ -1,0 +1,9 @@
+INSERT INTO `dishes_finder`.`ingredients` (`title`) VALUES ('капуста');
+INSERT INTO `dishes_finder`.`ingredients` (`title`) VALUES ('морковь');
+INSERT INTO `dishes_finder`.`ingredients` (`title`) VALUES ('лук');
+INSERT INTO `dishes_finder`.`ingredients` (`title`) VALUES ('чеснок');
+
+INSERT INTO `dishes_finder`.`dishes` (`title`) VALUES ('салат из чеснока');
+INSERT INTO `dishes_finder`.`dishes` (`title`) VALUES ('салат из капусты');
+INSERT INTO `dishes_finder`.`dishes` (`title`) VALUES ('салат из лука');
+INSERT INTO `dishes_finder`.`dishes` (`title`) VALUES ('салат из моркови');
